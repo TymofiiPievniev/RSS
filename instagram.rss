@@ -8,12 +8,11 @@
             <title>Now I am a skater</title>
             <link>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</link>
             <description>Haciendo Surf Skate</description>
-            
-        </item>
-        <image>
+             <image>
                 <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/1.png</url>
                 <title>Hola</title>
                 <link>https://raw.githubusercontent.com</link>
             </image>
+        </item>
     </channel>
     </rss>
