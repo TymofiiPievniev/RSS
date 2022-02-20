@@ -8,11 +8,9 @@
             <title>Now I am a skater</title>
             <link>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</link>
             <description>Haciendo Surf Skate</description>
-             <image>
-                <url>https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2021/07/17/diseno_sin_titulo_6.jpg</url>
-                <title>Hola</title>
-                <link>https://www.record.com.mx</link>
-            </image>
+            
+            <url>https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2021/07/17/diseno_sin_titulo_6.jpg</url>
+             
         </item>
     </channel>
     </rss>
