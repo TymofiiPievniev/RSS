@@ -9,7 +9,11 @@
             <link>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</link>
             <description>Haciendo Surf Skate</description>
             
-            <url>https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2021/07/17/diseno_sin_titulo_6.jpg</url>
+            <image>
+                <url>./1.png</url>
+                <title>Hola</title>
+                <link>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</link>
+            </image>
              
         </item>
     </channel>
