@@ -7,8 +7,8 @@
         <category>Noticias</category>
         <copyright>Tymofii Pievniev - Todos los derechos reservados</copyright>
         <language>es-es</language>
-        <pubDate>Thu, 22 Feb 2022</pubDate>
-        <webMaster>a21pipity@iesgrancapitan.org</webMaster>
+        <pubDate>Wed, 01 Mar 2022 13:00:00 GMT</pubDate>
+        <webMaster>a21pipity@iesgrancapitan.org (Tymofii Pievniev)</webMaster>
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
@@ -23,7 +23,7 @@
         </skipHours>
         <image>
             <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/1.png</url>
-            <title>Logo</title>
+            <title>Bienvenidos a mi Instagram</title>
             <link>https://www.instagram.com/onexplosive/</link>
         </image>
         
@@ -32,13 +32,11 @@
             <title>Now I am a skater</title>
             <link>https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link</link>
             <description>Haciendo Surf Skate en el parque nuevo del Cañero</description>
-            <author>a21pipity@iesgrancapitan.org</author>
+            <author>a21pipity@iesgrancapitan.org (Tymofii Pievniev)</author>
             <image>
                 <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/5.png</url>
                 <title>SurfSkate</title>
                 <link>https://www.instagram.com/onexplosive/</link>
-                <width>96</width>
-                <height>32</heidth>
             </image>
             <pubDate>Thu, 22 Feb 2022</pubDate>
             <source url="https://www.instagram.com/p/CZXX6gyoUAp/?utm_source=ig_web_copy_link">instagram.com</source>
@@ -48,7 +46,7 @@
             <title>Paddlesurf</title>
             <link>https://www.instagram.com/p/CSB_mhfofho/?utm_source=ig_web_copy_link</link>
             <description>Os recomiendo el paddlesurf, pero no pescar</description>
-            <author>a21pipity@iesgrancapitan.org</author>
+            <author>a21pipity@iesgrancapitan.org (Tymofii Pievniev)</author>
             <image>
                 <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/4.png</url>
                 <title>Paddlesurf</title>
@@ -62,7 +60,7 @@
             <title>Tri polosky</title>
             <link>https://www.instagram.com/p/CPxgNhYHnPQ/?utm_source=ig_web_copy_link</link>
             <description>Tri polosky son las tres lines del adidas</description>
-            <author>a21pipity@iesgrancapitan.org</author>
+            <author>a21pipity@iesgrancapitan.org (Tymofii Pievniev)</author>
             <image>
                 <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/3.png</url>
                 <title>Adidas</title>
@@ -76,7 +74,7 @@
             <title>Front or back?</title>
             <link>https://www.instagram.com/p/CNKvyO9Hio8/?utm_source=ig_web_copy_link</link>
             <description>Los elementos estaticos front-lever y back-lever</description>
-            <author>a21pipity@iesgrancapitan.org</author>
+            <author>a21pipity@iesgrancapitan.org (Tymofii Pievniev)</author>
             <image>
                 <url>https://raw.githubusercontent.com/TymofiiPievniev/RSS/main/2.png</url>
                 <title>FrontLever</title>
